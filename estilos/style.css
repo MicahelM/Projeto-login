@@ -54,3 +54,12 @@ main {
     padding: 10px;
 
 }
+
+#formulário > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#formulário > p {
+    font-size: 0.8em;
+}
